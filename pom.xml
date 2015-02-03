@@ -34,7 +34,7 @@
 
   <modules>
     <module>sheldon-core</module>
-    <module>xssh</module>
+    <!--<module>xssh</module>-->
     <module>sysprops</module>
   </modules>
 
